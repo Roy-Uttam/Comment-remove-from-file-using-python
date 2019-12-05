@@ -1,0 +1,7 @@
+int x, y; //declaring variables
+x = 4; //initializing variables
+y = 5; //initializing variables
+/*display the values*/
+printf(“x=%d”,&x);
+printf(“y=%d”,&y);
+return 0;

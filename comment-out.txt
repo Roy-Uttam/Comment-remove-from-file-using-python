@@ -1,0 +1,7 @@
+int x, y; 
+x = 4; 
+y = 5; 
+
+printf(“x=%d”,&x);
+printf(“y=%d”,&y);
+return 0;
